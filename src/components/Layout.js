@@ -6,6 +6,8 @@ import './all.sass'
 import useSiteMetadata from './SiteMetadata'
 import { withPrefix } from 'gatsby'
 
+import logo from '../img/logo-ibbppta.svg'
+
 const TemplateWrapper = ({ children }) => {
   const { title, description } = useSiteMetadata()
   return (
@@ -14,6 +16,8 @@ const TemplateWrapper = ({ children }) => {
         <html lang="pt-BR" />
         <title>{title}</title>
         <meta name="description" content={description} />
+
+        <link rel="shortcut icon" href={logo} />
 
         <link
           rel="apple-touch-icon"
