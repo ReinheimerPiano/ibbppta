@@ -3,7 +3,7 @@ import PropTypes from "prop-types";
 import { graphql } from "gatsby";
 import Layout from "../components/Layout";
 
-export const PageTemplate = ({
+export const LivePageTemplate = ({
   urlLive,
   title,
   heading,
@@ -12,8 +12,11 @@ export const PageTemplate = ({
   <div className='content'>
     <div className='full-width-image-container margin-top-0'>
       <iframe
-        width='100vw;'
-        height='100vh'
+      title="Live da IBBPPTA"
+        style={{
+          width: "100vw",
+          height: "100vh"
+        }}
         src={urlLive}
         frameborder='0'
         allowfullscreen></iframe>
@@ -21,8 +24,8 @@ export const PageTemplate = ({
     <h2
       className='has-text-weight-bold is-size-1'
       style={{
-        boxShadow: "0.5rem 0 0 #f40, -0.5rem 0 0 #f40",
-        backgroundColor: "#f40",
+        boxShadow: "0.5rem 0 0 rgb(43 89 183), -0.5rem 0 0 rgb(43 89 183)",
+        backgroundColor: "rgb(43 89 183)",
         color: "white",
         padding: "1rem",
       }}>
@@ -44,7 +47,7 @@ export const PageTemplate = ({
 );
 
 LivePageTemplate.propTypes = {
-  urlLive: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
+  urlLive: PropTypes.string,
   title: PropTypes.string,
   heading: PropTypes.string,
   description: PropTypes.string,

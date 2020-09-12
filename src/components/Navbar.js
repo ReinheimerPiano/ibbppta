@@ -1,15 +1,15 @@
-import React from 'react'
+import React from "react";
 
-import { Link } from 'gatsby'
-import logo from '../img/logo-ibbppta.svg'
+import { Link } from "gatsby";
+import logo from "../img/logo-ibbppta.svg";
 
 const Navbar = class extends React.Component {
   constructor(props) {
-    super(props)
+    super(props);
     this.state = {
       active: false,
-      navBarActiveClass: '',
-    }
+      navBarActiveClass: "",
+    };
   }
 
   toggleHamburger = () => {
@@ -23,64 +23,86 @@ const Navbar = class extends React.Component {
         // set the class in state for the navbar accordingly
         this.state.active
           ? this.setState({
-              navBarActiveClass: 'is-active',
+              navBarActiveClass: "is-active",
             })
           : this.setState({
-              navBarActiveClass: '',
-            })
+              navBarActiveClass: "",
+            });
       }
-    )
-  }
+    );
+  };
 
   render() {
     return (
       <nav
-        className="navbar is-transparent-op is-fixed-top"
-        role="navigation"
-        aria-label="main-navigation"
-      >
-        <div className="container">
-          <div className="navbar-brand">
-            <Link to="/" className="navbar-item" title="Logo">
-              <img src={logo} alt="ibbppta" style={{ width: '80px' }} />
+        className='navbar is-transparent-op is-fixed-top'
+        role='navigation'
+        aria-label='main-navigation'>
+        <div className='container'>
+          <div className='navbar-brand'>
+            <Link
+              to='/'
+              className='navbar-item'
+              title='Logo'
+              style={{
+                position: "fixed",
+                width: "6rem",
+                hight: "3rem",
+                padding: "0",
+              }}>
+              <img
+                src={logo}
+                alt='ibbppta'
+                style={{
+                  width: "100%",
+                  height: "100%",
+                  maxWidth: "100%",
+                  maxHeight: "100%",
+                  marginRight: "0.7rem",
+                }}
+              />
+              <spann
+                style={{
+                  fontSize: "1.5rem",
+                }}>
+                IBBPPTA
+              </spann>
             </Link>
             {/* Hamburger menu */}
             <div
               className={`navbar-burger burger ${this.state.navBarActiveClass}`}
-              data-target="navMenu"
-              onClick={() => this.toggleHamburger()}
-            >
+              data-target='navMenu'
+              onClick={() => this.toggleHamburger()}>
               <span />
               <span />
               <span />
             </div>
           </div>
           <div
-            id="navMenu"
-            className={`navbar-menu ${this.state.navBarActiveClass} is-transparent`}
-          >
-            <div className="navbar-end has-text-centered">
-              <Link className="navbar-item" to="/about">
+            id='navMenu'
+            className={`navbar-menu ${this.state.navBarActiveClass} is-transparent`}>
+            <div className='navbar-end has-text-centered'>
+              <Link className='navbar-item' to='/about'>
                 Quem Somos
               </Link>
-              <Link className="navbar-item" to="/products">
+              <Link className='navbar-item is-transparent-op' to='/live' style={{ color: "red" , fontWeight: "900"}}>
                 LIVE!
               </Link>
-              <Link className="navbar-item" to="/">
+              {/* <Link className="navbar-item" to="/">
                 Onde Estamos
-              </Link>
-              <Link className="navbar-item" to="/blog">
+              </Link> */}
+              <Link className='navbar-item' to='/blog'>
                 Blog
               </Link>
-              <Link className="navbar-item" to="/contact">
+              <Link className='navbar-item' to='/contact'>
                 Contato
               </Link>
             </div>
           </div>
         </div>
       </nav>
-    )
+    );
   }
-}
+};
 
-export default Navbar
+export default Navbar;
