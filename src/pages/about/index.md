@@ -65,18 +65,18 @@ Acreditamos que o crente verdadeiro deve viver uma vida santa e separada do mund
 
 \*Os sete distintivos das Igrejas Batistas:
 
-1.- A Bíblia é nossa única regra de fé e prática
+1.- A Bíblia é nossa única regra de fé e prática.
 
-2.- A Igreja é composta de membros regenerados
+2.- A Igreja é composta de membros regenerados.
 
-3.- Nossa profissão de fé é o batismo por imersão após a conversão
+3.- Nossa profissão de fé é o batismo por imersão após a conversão.
 
-4.- Cada crente é um Sacerdote
+4.- Cada crente é um Sacerdote.
 
-5.- A segurança do crente é eterna
+5.- A segurança do crente é eterna.
 
 6.- A igreja local é autônoma.
 
-7.- O Estado e a Igreja devem ser separados
+7.- O Estado e a Igreja devem ser separados.
 
 <!--EndFragment-->
