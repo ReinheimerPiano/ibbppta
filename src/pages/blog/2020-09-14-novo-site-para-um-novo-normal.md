@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Novo site! Para um novo Normal.
+title: Novo site! Para um novo Normal!
 date: 2020-09-14T12:58:40.962Z
 description: Atualização do nosso site para melhor adaptação ao novo normal e atual.
 featuredpost: true
