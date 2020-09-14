@@ -2,7 +2,8 @@ import React from "react";
 import PropTypes from "prop-types";
 import { LivePageTemplate } from "../../templates/live-page";
 
-const LivePagePreview = ({ entry }) => {
+const LivePagePreview = ({ entry, getAsset }) => {
+  const data = entry.getIn(["data"]).toJS();
 
   return (
     <LivePageTemplate

@@ -3,24 +3,21 @@ import PropTypes from "prop-types";
 import { graphql } from "gatsby";
 import Layout from "../components/Layout";
 
-export const LivePageTemplate = ({
-  urlLive,
-  title,
-  heading,
-  description
-}) => (
+export const LivePageTemplate = ({ urlLive, title, heading, description }) => (
   <div className='content'>
     <div className='full-width-image-container margin-top-0'>
       <iframe
-      title="Live da IBBPPTA"
+        title='Live da IBBPPTA'
         style={{
           width: "100vw",
-          height: "100vh"
+          height: "100vh",
         }}
         src={urlLive}
         frameborder='0'
-        allowfullscreen></iframe>
-    </div>
+        allowfullscreen>
+        {" "}
+      </iframe>{" "}
+    </div>{" "}
     <h2
       className='has-text-weight-bold is-size-1'
       style={{
@@ -29,20 +26,24 @@ export const LivePageTemplate = ({
         color: "white",
         padding: "1rem",
       }}>
-      {title}
-    </h2>
+      {" "}
+      {title}{" "}
+    </h2>{" "}
     <section className='section section--gradient'>
       <div className='container'>
         <div className='section'>
           <div className='columns'>
             <div className='column is-7 is-offset-1'>
-              <h3 className='has-text-weight-semibold is-size-2'>{heading}</h3>
-              <p>{description}</p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
+              <h3 className='has-text-weight-semibold is-size-2'>
+                {" "}
+                {heading}{" "}
+              </h3>{" "}
+              <p> {description} </p>{" "}
+            </div>{" "}
+          </div>{" "}
+        </div>{" "}
+      </div>{" "}
+    </section>{" "}
   </div>
 );
 
@@ -63,7 +64,7 @@ const LivePage = ({ data }) => {
         title={frontmatter.title}
         heading={frontmatter.heading}
         description={frontmatter.description}
-      />
+      />{" "}
     </Layout>
   );
 };
@@ -78,15 +79,15 @@ LivePage.propTypes = {
 
 export default LivePage;
 
-export const LivePageQuery = graphql`
+export const livePageQuery = graphql`
   query LivePage($id: String!) {
     markdownRemark(id: { eq: $id }) {
       frontmatter {
-        title
         urlLive
+        title
         heading
         description
       }
     }
   }
-`
+`;
