@@ -12,13 +12,13 @@ tags:
   - live
   - ibbppta
 ---
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -58,9 +58,9 @@ tags:
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -639,9 +639,9 @@ tags:
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 10]>
+<!--\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -668,13 +668,9 @@ tags:
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 </style>
-<!\\[endif]-->
+<!\\\[endif]-->
 
 <!--StartFragment-->
-
-
-
-
 
 Atualização do nosso site para que consigamos apresentar de uma melhor forma, nossa igreja, nossos conteúdos, e facilitarmos o acesso de quem nos acompanha à palavra de Deus.
 
@@ -682,9 +678,9 @@ Com mais espaço para nossos eventos, e sempre pensando em que não está presen
 
 Esperamos que esse site seja mais um canal de comunicação da Palavra de Deus!
 
-Caso vejam alguma informação errada, ou inda incompleta, nos perdoem o transtorno, aos poucos estamos inserindo todas nossas informações e ainda fazendo ajustes.
+Caso vejam alguma informação errada, ou ainda incompleta, nos perdoem o transtorno, aos poucos estamos inserindo todas nossas informações e ainda fazendo ajustes.
 
-Tem alguma ideia ou sugestão, entre em contato conosco na aba Contato.
+Tem alguma ideia ou sugestão entre em contato conosco na aba Contato.
 
 > “*Para tudo há uma ocasião certa; há um tempo certo para cada propósito debaixo do céu*:”
 >
