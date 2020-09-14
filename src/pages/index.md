@@ -5,7 +5,7 @@ image: /img/home-jumbotron.jpg
 heading: Está em Cristo?
 subheading: "Se não tem certeza de que está em Cristo, venha ouvir e aprender "
 mainpitch:
-  title: Uma Igreja de Cristo em Paraguaçi Paulista - SP
+  title: Uma Igreja de Cristo em Paraguaçu Paulista - SP
   description: >
     Com um trabalho de mais de 30 Anos, seguimos firme no evangelismo da Palavra
     de Deus, para que mais pessoas venham conhecer do seu amor e de sua salvação
