@@ -38,11 +38,6 @@ intro:
         O PROBLEMA: A NOSSA SEPARAÇÃO!
 
 
-        Deus nos criou à Sua imagem para termos uma vida abundante. Porém Ele não nos fez como robôs para amá-Lo e obedecê-Lo de forma automática. Deus nos deu uma vontade e uma liberdade de escolha. Infelizmente todos nós escolhemos desobedecer a Deus e seguir o nosso próprio caminho. Até hoje nós fazemos essa escolha. Isso resultou em nossa separação de Deus.
-
-
-
-
         A Bíblia diz:
 
 
@@ -93,11 +88,6 @@ intro:
     - image: /img/donation.png
       text: >-
         NOSSA RESPOSTA: RECEBER JESUS EM NOSSA VIDA!
-
-
-        Devemos confiar em Jesus Cristo como nosso Senhor e Salvador e recebê-lo através de um convite pessoal.
-
-
 
 
         A Bíblia diz:
