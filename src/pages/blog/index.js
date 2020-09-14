@@ -10,7 +10,7 @@ export default class BlogIndexPage extends React.Component {
         <div
           className='full-width-image-container margin-top-0'
           style={{
-            backgroundImage: `url('/img/blog-index.jpg')`,
+            backgroundImage: `url('/img/blogbg-index.jpg')`,
           }}>
           <h1
             className='has-text-weight-bold is-size-1'
@@ -21,7 +21,7 @@ export default class BlogIndexPage extends React.Component {
               color: "white",
               padding: "1rem",
             }}>
-            Latest Stories{" "}
+            Últimas Notícias{" "}
           </h1>{" "}
         </div>{" "}
         <section className='section'>
