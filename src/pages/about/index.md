@@ -3,13 +3,13 @@ templateKey: about-page
 path: /about
 title: Quem Somos
 ---
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -49,9 +49,9 @@ title: Quem Somos
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -630,9 +630,9 @@ title: Quem Somos
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -659,11 +659,11 @@ title: Quem Somos
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
-VITA NATURAL SAÚDE E ESTÉTICA! Conta com uma equipe de profi­ssionais qualifi­cados, especialistas em Acupuntura e Estética, para melhor atender você e sua família! Nosso objetivo é auxiliar na promoção, manutenção e restabelecimento da saúde, visando o bem-estar integral do ser humano, por meio das TERAPIAS INTEGRATIVAS. Oferecemos tecnologia japonesa moderna como a terapia PHOTON ELETROMAGNÉTICA, ACUPUNTURA SEM AGULHAS e a OZONIOTERAPIA usada em vários países europeus e nos Estados Unidos. Trata-se do desenvolvimento de um trabalho qualifi­cado e de natureza humanística, que considera as pessoas como portadoras das dimensões física, mental e emocional.
+VITA NATURAL SAÚDE E ESTÉTICA! Conta com uma equipe de profi­ssionais qualifi­cados, especialistas em Acupuntura e Estética, para melhor atender você e sua família! Nosso objetivo é auxiliar na promoção, manutenção e restabelecimento da saúde, visando o bem-estar integral do ser humano, por meio das TERAPIAS INTEGRATIVAS. Oferecemos tecnologia japonesa moderna como a terapia PHOTON ELETROMAGNÉTICA, ACUPUNTURA SEM AGULHAS e a OZONIOTERAPIA usada em vários países europeus e nos Estados Unidos. Trata-se do desenvolvimento de um trabalho qualifi­cado e de natureza humanística, que considera as pessoas como portadoras das dimensões física, mental e emocional!
 
 Dr. David Maurício Rodrigues
 
@@ -671,40 +671,40 @@ Biomédico Especialista em Acupuntura - Ozonioterapia
 
 CRBM 3- 5978 | CRBM 2- 10645
 
-<!--\[if !supportLists]-->· <!--\[endif]-->Graduado em Biomedicina - Universidade Anhanguera de Brasília –DF.
+<!--\\[if !supportLists]-->· <!--\\[endif]-->Graduado em Biomedicina - Universidade Anhanguera de Brasília –DF.
 
-<!--\[if !supportLists]-->· <!--\[endif]-->Pós graduação em ACUPUNTURA E PRÁTICAS DE SAÚDE E LONGEVIDADE
+<!--\\[if !supportLists]-->· <!--\\[endif]-->Pós graduação em ACUPUNTURA E PRÁTICAS DE SAÚDE E LONGEVIDADE
 
-<!--\[if !supportLists]-->· <!--\[endif]-->Universidade Cruzeiro do Sul - DF
+<!--\\[if !supportLists]-->· <!--\\[endif]-->Universidade Cruzeiro do Sul - DF
 
-<!--\[if !supportLists]-->· <!--\[endif]-->Graduando em Nutrição - Estácio de Sá - DF
+<!--\\[if !supportLists]-->· <!--\\[endif]-->Graduando em Nutrição - Estácio de Sá - DF
 
-<!--\[if !supportLists]-->· <!--\[endif]-->Curso de Extensão Universitária em Ozonioterapia. FAPUGA –SP
+<!--\\[if !supportLists]-->· <!--\\[endif]-->Curso de Extensão Universitária em Ozonioterapia. FAPUGA –SP
 
-<!--\[if !supportLists]-->· <!--\[endif]-->Curso de Ozonioterapia – IBCOZ -Instituto Brasileiro de Ciências Aplicadas ao Ozônio. SP.
+<!--\\[if !supportLists]-->· <!--\\[endif]-->Curso de Ozonioterapia – IBCOZ -Instituto Brasileiro de Ciências Aplicadas ao Ozônio. SP.
 
-<!--\[if !supportLists]-->· <!--\[endif]-->Curso de Ozonioterapia na estética – INAESP – SP
+<!--\\[if !supportLists]-->· <!--\\[endif]-->Curso de Ozonioterapia na estética – INAESP – SP
 
-<!--\[if !supportLists]-->· <!--\[endif]-->Curso de Ozonioterapia – Academia Brasileira de Terapeutas Integrativos - DF
+<!--\\[if !supportLists]-->· <!--\\[endif]-->Curso de Ozonioterapia – Academia Brasileira de Terapeutas Integrativos - DF
 
-<!--\[if !supportLists]-->· <!--\[endif]-->Palestrante sobre qualidade de vida e bem estar desde 2000
+<!--\\[if !supportLists]-->· <!--\\[endif]-->Palestrante sobre qualidade de vida e bem estar desde 2000
 
-<!--\[if !supportLists]-->· <!--\[endif]-->Participa de vários congressos de saúde integrativa e estética
+<!--\\[if !supportLists]-->· <!--\\[endif]-->Participa de vários congressos de saúde integrativa e estética
 
-<!--\[if !supportLists]-->· <!--\[endif]-->Ministra diversos cursos na área das terapias integrativas
+<!--\\[if !supportLists]-->· <!--\\[endif]-->Ministra diversos cursos na área das terapias integrativas
 
-<!--\[if !supportLists]-->· <!--\[endif]-->Empresário na área da saúde
+<!--\\[if !supportLists]-->· <!--\\[endif]-->Empresário na área da saúde
 
-<!--\[if !supportLists]-->· <!--\[endif]-->Diretor da clínica vita natural no DF – www.clinicavitanatural.com.br
+<!--\\[if !supportLists]-->· <!--\\[endif]-->Diretor da clínica vita natural no DF – www.clinicavitanatural.com.br
 
-<!--\[if !supportLists]-->· <!--\[endif]-->MEMBRO;
+<!--\\[if !supportLists]-->· <!--\\[endif]-->MEMBRO;
 
-<!--\[if !supportLists]-->· <!--\[endif]-->ABIOMAC – Associação Biomédica de Acupuntura
+<!--\\[if !supportLists]-->· <!--\\[endif]-->ABIOMAC – Associação Biomédica de Acupuntura
 
-<!--\[if !supportLists]-->· <!--\[endif]-->ABBM – Associação Brasileira de Biomedicina
+<!--\\[if !supportLists]-->· <!--\\[endif]-->ABBM – Associação Brasileira de Biomedicina
 
-<!--\[if !supportLists]-->· <!--\[endif]-->WALT – Word Association For de Laser Therapy
+<!--\\[if !supportLists]-->· <!--\\[endif]-->WALT – Word Association For de Laser Therapy
 
-<!--\[if !supportLists]-->· <!--\[endif]-->ABOZ – Associação Brasileira de Ozonioterapia
+<!--\\[if !supportLists]-->· <!--\\[endif]-->ABOZ – Associação Brasileira de Ozonioterapia
 
 <!--EndFragment-->
